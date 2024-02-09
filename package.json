@@ -1,7 +1,6 @@
 {
   "name": "cloud-commerce",
   "version": "1.0.0",
-  "homepage": "https://TristanBester.github.io",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^2.0.10",

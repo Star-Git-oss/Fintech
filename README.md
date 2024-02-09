@@ -5,7 +5,6 @@
 ### Setup
 
 ```bash
-git clone git@github.com:TristanBester/CloudCommerce.git
 
 cd CloudCommerce
 
